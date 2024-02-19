@@ -1,0 +1,1 @@
+# Swagger docs setup in django rest framework
