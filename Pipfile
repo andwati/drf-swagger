@@ -11,6 +11,9 @@ django-rest-swagger = "*"
 drf-yasg = "*"
 
 [dev-packages]
+pre-commit = "*"
+black = "*"
+isort = "*"
 
 [requires]
 python_version = "3.11"
